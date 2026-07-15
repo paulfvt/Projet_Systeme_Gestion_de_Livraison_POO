@@ -26,7 +26,7 @@ Le projet respecte les grands principes de la programmation orientée objet :
 - **Structure de données** : Utilisation d'`ArrayList` pour une gestion dynamique des collections.
 
 ### Diagramme de Classes UML
-![Diagramme de classes UML](doc/Diagramme_UML.jpg)
+![Diagramme de classes UML](doc/Projet Gestion système de livraison.png)
 
 ---
 
